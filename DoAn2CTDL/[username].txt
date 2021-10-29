@@ -1,0 +1,15 @@
+employ1
+Huynh Minh Hau
+TP.HCM
+0123456789
+hau@gmail.com
+employ2
+Le Quang Hung
+TP.HCM
+0987654321
+hung@gmail.com
+employ3
+Le Tan Phuong Sang
+TP.HCM
+0258963147
+sang@gmail.com
